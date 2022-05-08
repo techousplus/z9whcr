@@ -1,0 +1,535 @@
+{
+    "channel":
+    [
+     {
+     "name": "TRT 1",
+     "streamURL": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+     "imageURL": "trt-1.png"
+     },
+     {
+     "name": "TRT 2",
+     "streamURL": "https://liveredirecttrt2.herokuapp.com/",
+     "imageURL": "trt2logo.png"
+     },
+     {
+     "name": "TRT Haber",
+     "streamURL": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
+     "imageURL": "trthaber"
+     },
+     {
+     "name": "TRT Spor",
+     "streamURL": "https://mn-nl.mncdn.com/blutv_trtspor_dvr/live.m3u8",
+     "imageURL": "trtspor.png"
+     },
+     {
+     "name": "TRT Spor Yıldız",
+     "streamURL": "https://mn-nl.mncdn.com/blutv_trtsporyildiz_dvr/live.m3u8",
+     "imageURL": "trtspor2.png"
+     },
+     {
+     "name": "TRT Belgesel",
+     "streamURL": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
+     "imageURL": "trtbelgesel.png"
+     },
+     {
+     "name": "TRT Müzik",
+     "streamURL": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
+     "imageURL": "trtmuzik.png"
+     },
+     {
+     "name": "TRT Türk",
+     "streamURL": "https://tv-trtturk.medya.trt.com.tr/master.m3u8",
+     "imageURL": "trtturk.png"
+     },
+     {
+     "name": "TRT Kurdî",
+     "streamURL": "https://tv-trtkurdi.medya.trt.com.tr/master.m3u8",
+     "imageURL": "trtkurdi.png"
+     },
+     {
+     "name": "TRT Avaz",
+     "streamURL": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8",
+     "imageURL": "trtavaz.png"
+     },
+     {
+     "name": "TRT Çocuk",
+     "streamURL": "https://mn-nl.mncdn.com/blutv_trtcocuk_dvr/live.m3u8",
+     "imageURL": "trtcocuk.png"
+     },
+     {
+     "name": "TRT Arabi",
+     "streamURL": "https://tv-trtarabi.medya.trt.com.tr/master.m3u8",
+     "imageURL": "trtarabi.png"
+     },
+     {
+     "name": "TRT World",
+     "streamURL": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+     "imageURL": "trtworld.png"
+     },
+     {
+     "name": "TRT EBA TV İlkokul",
+     "streamURL": "https://tv-e-okul00.medya.trt.com.tr/master.m3u8",
+     "imageURL": "ebatvilkokul.png"
+     },
+     {
+     "name": "TRT EBA TV Ortaokul",
+     "streamURL": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8",
+     "imageURL": "ebatvortaokul.png"
+     },
+     {
+     "name": "TRT EBA TV Lise",
+     "streamURL": "https://tv-e-okul02.medya.trt.com.tr/master.m3u8",
+     "imageURL": "ebatvlise.png"
+     },
+     {
+     "name": "ATV",
+     "streamURL": "https://securevideotoken.tmgrup.com.tr/webtv/secure?url=https://trkvz-live.ercdn.net/atvhd/atvhd_720p.m3u8",
+     "imageURL": "atv.png"
+     },
+     {
+     "name": "A2",
+     "streamURL": "https://securevideotoken.tmgrup.com.tr/webtv/secure?url=https://trkvz-live.ercdn.net/a2tv/a2tv_720p.m3u8",
+     "imageURL": "a2logo.png"
+     },
+     {
+     "name": "Kanal D",
+     "streamURL": "https://kanald.blutv.com/blutv_kanald_live/live.m3u8",
+     "imageURL": "kanald.png"
+     },
+     {
+     "name": "Euro D",
+     "streamURL": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8",
+     "imageURL": "eurod.png"
+     },
+     {
+     "name": "FOX TV",
+     "streamURL": "https://streamlinkquery.herokuapp.com/iptv-query?streaming-ip=https://www.fox.com.tr/canli-yayin",
+     "imageURL": "foxtv.png"
+     },
+     {
+     "name": "NTV",
+     "streamURL": "https://ntv.blutv.com/blutv_ntv_live/live.m3u8",
+     "imageURL": "ntvlogo.png"
+     },
+     {
+     "name": "Show TV",
+     "streamURL": "https://showtv.blutv.com/blutv_showtv_live/live.m3u8",
+     "imageURL": "showtv.png"
+     },
+     {
+     "name": "Show Türk",
+     "streamURL": "https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8",
+     "imageURL": "showturk.png"
+     },
+     {
+     "name": "Show Max",
+     "streamURL": "https://streamlinkquery.herokuapp.com/iptv-query?streaming-ip=http://www.showmax.com.tr/canliyayin",
+     "imageURL": "showmax.png"
+     },
+     {
+     "name": "Star TV",
+     "streamURL": "https://startv.blutv.com/blutv_startv_live/live.m3u8",
+     "imageURL": "startv.png"
+     },
+     {
+     "name": "CNN Türk",
+     "streamURL": "https://cnnturk.blutv.com/blutv_cnnturk_live/live.m3u8",
+     "imageURL": "CNN_Turk.png"
+     },
+     {
+     "name": "Haber Global",
+     "streamURL": "https://mn-nl.mncdn.com/blutv_haberglobal2/live.m3u8",
+     "imageURL": "haberglobal.png"
+     },
+     {
+     "name": "Tele 1",
+     "streamURL": "https://tele1.blutv.com/blutv_tele1_live/live.m3u8",
+     "imageURL": "tele1.png"
+     },
+     {
+     "name": "TV8",
+     "streamURL": "https://streamlinkquery.herokuapp.com/iptv-query?streaming-ip=https://www.tv8.com.tr/canli-yayin",
+     "imageURL": "tv8logo.png"
+     },
+     {
+     "name": "TV8 Int",
+     "streamURL": "https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8",
+     "imageURL": "tv8int.png"
+     },
+     {
+     "name": "TV8,5",
+     "streamURL": "https://tv85dvr.blutv.com/blutv_tv8_5_dvr2/live.m3u8",
+     "imageURL": "TV8.5_Logosu.png"
+     },
+     {
+     "name": "Halk TV",
+     "streamURL": "https://halktv-live.ercdn.net/halktv/halktv.m3u8",
+     "imageURL": "halktv.png"
+     },
+     {
+     "name": "TV100",
+     "streamURL": "https://tv100.blutv.com/blutv_tv100_live/live.m3u8",
+     "imageURL": "tv100.png"
+     },
+     {
+     "name": "TGRT Haber",
+     "streamURL": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8",
+     "imageURL": "tgrthaberlogo.png"
+     },
+     {
+     "name": "TGRT Belgesel",
+     "streamURL": "https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8",
+     "imageURL": "tgrtbelgesel.png"
+     },
+     {
+     "name": "Habertürk",
+     "streamURL": "https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8",
+     "imageURL": "haberturk-logo.png"
+     },
+     {
+     "name": "TV 360",
+     "streamURL": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
+     "imageURL": "360_tv.png"
+     },
+     {
+     "name": "24 TV",
+     "streamURL": "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8",
+     "imageURL": "24tv.png"
+     },
+     {
+     "name": "Beyaz TV",
+     "streamURL": "https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8",
+     "imageURL": "beyaztv.png"
+     },
+     {
+     "name": "Artı TV",
+     "streamURL": "https://streamlinkquery.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCxVicskgBc8OD66iLKc7Uaw",
+     "imageURL": "artıtv.png"
+     },
+     {
+     "name": "Kanal B",
+     "streamURL": "http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8",
+     "imageURL": "kanalb.png"
+     },
+     {
+     "name": "Bloomberg HT",
+     "streamURL": "https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8",
+     "imageURL": "bloomberght.png"
+     },
+     {
+     "name": "KRT TV",
+     "streamURL": "https://krt.blutv.com/blutv_krt_live/live.m3u8",
+     "imageURL": "krttv.png"
+     },
+     {
+     "name": "Kanal 7",
+     "streamURL": "https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8",
+     "imageURL": "kanal7.png"
+     },
+     {
+     "name": "Kanal 7 Avrupa",
+     "streamURL": "https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8",
+     "imageURL": "kanal7avrupa.png"
+     },
+     {
+     "name": "Ulusal Kanal",
+     "streamURL": "https://mn-nl.mncdn.com/blutv_ulusalkanal/blutv_ulusalkanal.smil/playlist.m3u8",
+     "imageURL": "ulusalkanal.png"
+     },
+     {
+     "name": "A Haber",
+     "streamURL": "https://securevideotoken.tmgrup.com.tr/webtv/secure?url=https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8",
+     "imageURL": "A_Haber_logosu.png"
+     },
+     {
+     "name": "A Spor",
+     "streamURL": "https://securevideotoken.tmgrup.com.tr/webtv/secure?url=https://trkvz-live.ercdn.net/asporhd/asporhd_720p.m3u8",
+     "imageURL": "aspor.png"
+     },
+     {
+     "name": "A Para",
+     "streamURL": "https://securevideotoken.tmgrup.com.tr/webtv/secure?url=https://trkvz-live.ercdn.net/aparahd/aparahd_720p.m3u8",
+     "imageURL": "apara.png"
+     },
+     {
+     "name": "Teve2",
+     "streamURL": "https://teve2.blutv.com/blutv_teve2_live/live.m3u8",
+     "imageURL": "teve2.png"
+     },
+     {
+     "name": "TVNET",
+     "streamURL": "https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8",
+     "imageURL": "tvnetlogo.png"
+     },
+     {
+     "name": "Flash Haber TV",
+     "streamURL": "https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8",
+     "imageURL": "flashtv.png"
+     },
+     {
+     "name": "TV4",
+     "streamURL": "https://turkmedya-live.ercdn.net/tv4/tv4.m3u8",
+     "imageURL": "tv4.png"
+     },
+     {
+     "name": "EKOTÜRK",
+     "streamURL": "https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8",
+     "imageURL": "ekoturk.png"
+     },
+     {
+     "name": "Ülke TV",
+     "streamURL": "https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8",
+     "imageURL": "ulketv.png"
+     },
+     {
+     "name": "Akit TV",
+     "streamURL": "https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8",
+     "imageURL": "akittv.png"
+     },
+     {
+     "name": "Bengü Türk",
+     "streamURL": "https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8",
+     "imageURL": "benguturk.png"
+     },
+     {
+     "name": "BRT 1",
+     "streamURL": "https://kuzeykibris.tv/m3u8/tv_brt1.m3u8",
+     "imageURL": "brt1.png"
+     },
+     {
+     "name": "BRT 2",
+     "streamURL": "http://wms.brtk.net:1935/live/brt1/playlist.m3u8",
+     "imageURL": "brt2.png"
+     },
+     {
+     "name": "TV52",
+     "streamURL": "https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8",
+     "imageURL": "tv52.png"
+     },
+     {
+     "name": "Bizimev TV",
+     "streamURL": "https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/index.m3u8",
+     "imageURL": "bizimevtv.png"
+     },
+     {
+     "name": "TV5",
+     "streamURL": "http://iptvmasterlink.dyndns.org:8080/Tv5/playlist.m3u8",
+     "imageURL": "tv5.png"
+     },
+     {
+     "name": "TBMM TV",
+     "streamURL": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8",
+     "imageURL": "tbmmtv.png"
+     },
+     {
+     "name": "KON TV",
+     "streamURL": "https://mn-nl.mncdn.com/blutv_kontv2/live.m3u8",
+     "imageURL": "kontv.png"
+     },
+     {
+     "name": "Vuslat TV",
+     "streamURL": "https://mn-nl.mncdn.com/blutv_vuslattv2/live.m3u8",
+     "imageURL": "vuslattv.png"
+     },
+     {
+     "name": "ER TV",
+     "streamURL": "https://mn-nl.mncdn.com/blutv_ertv2/live.m3u8",
+     "imageURL": "ertv.png"
+     },
+     {
+     "name": "Yaban TV",
+     "streamURL": "http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8",
+     "imageURL": "yabantv.png"
+     },
+     {
+     "name": "Çiftçi TV",
+     "streamURL": "http://yerelmedya.tv:1935/ciftcitv/bant1/playlist.m3u8",
+     "imageURL": "ciftcitv.png"
+     },
+     {
+     "name": "TLC Türkiye",
+     "streamURL": "https://tlc.blutv.com/blutv_tlc_live/live.m3u8",
+     "imageURL": "tlclogo.png"
+     },
+     {
+     "name": "DMAX TV",
+     "streamURL": "https://mn-nl.mncdn.com/blutv_dmax2/live.m3u8",
+     "imageURL": "dmaxtv.png"
+     },
+     {
+     "name": "Investigation Discovery",
+     "streamURL": "https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8",
+     "imageURL": "investigationdiscovery.png"
+     },
+     {
+     "name": "beIN SPORTS HABER",
+     "streamURL": "r2vPH7d-_V8",
+     "imageURL": "beinsportshaber.png"
+     },
+     {
+     "name": "CBC Sport",
+     "streamURL": "http://135.125.161.28/cbcsport/index.m3u8",
+     "imageURL": "cbcsport.png"
+     },
+     {
+     "name": "GS TV",
+     "streamURL": "https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8",
+     "imageURL": "gstv.png"
+     },
+     {
+     "name": "FB TV",
+     "streamURL": "https://streamlinkquery.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/embed/video/x21oo10?autoplay=1",
+     "imageURL": "fbtv.png"
+     },
+     {
+     "name": "Sports TV",
+     "streamURL": "https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8",
+     "imageURL": "sportstv.png"
+     },
+     {
+     "name": "TAY TV",
+     "streamURL": "https://mn-nl.mncdn.com/blutv_taytv2/live.m3u8",
+     "imageURL": "taytv.png"
+     },
+     {
+     "name": "TJK TV",
+     "streamURL": "https://tjktv-live.tjk.org/tjktv.m3u8",
+     "imageURL": "tjktv.png"
+     },
+     {
+     "name": "Diyanet TV",
+     "streamURL": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8",
+     "imageURL": "diyanettv.png"
+     },
+     {
+     "name": "Vav TV",
+     "streamURL": "https://securevideotoken.tmgrup.com.tr/webtv/secure?url=https://trkvz-live.ercdn.net/vavtv/vavtv_720p.m3u8&url2=https://trkvz-live.ercdn.net/vavtv/vavtv.m3u8",
+     "imageURL": "vavtv.png"
+     },
+     {
+     "name": "Semerkand TV",
+     "streamURL": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8",
+     "imageURL": "semerkandtv.png"
+     },
+     {
+     "name": "Lalegül TV",
+     "streamURL": "https://lbl.netmedya.net/hls/lalegultv.m3u8",
+     "imageURL": "lalegultv.png"
+     },
+     {
+      "name": "Rehber TV",
+      "streamURL": "https://yayin30.haber100.com/live/rehbertv/playlist.m3u8",
+      "imageURL": "rehbertv.png"
+     },
+     {
+      "name": "Berat TV",
+      "streamURL": "https://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8",
+      "imageURL": "berattv.png"
+     },
+     {
+     "name": "Minika GO",
+     "streamURL": "https://securevideotoken.tmgrup.com.tr/webtv/secure?url=https://trkvz-live.ercdn.net/minikago/minikago_576p.m3u8",
+     "imageURL": "minikago.png"
+     },
+     {
+     "name": "Minika Çocuk",
+     "streamURL": "https://securevideotoken.tmgrup.com.tr/webtv/secure?url=https://trkvz-live.ercdn.net/minikagococuk/minikagococuk_576p.m3u8",
+     "imageURL": "minikacocuk.png"
+     },
+      {
+     "name": "Cartoon Network",
+     "streamURL": "http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8",
+     "imageURL": "cartoonnetwork.png"
+     },
+     {
+     "name": "Number One TV",
+     "streamURL": "https://mn-nl.mncdn.com/blutv_nr12/live.m3u8",
+     "imageURL": "nr1.png"
+     },
+     {
+     "name": "Number One Türk",
+     "streamURL": "https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8",
+     "imageURL": "nr1turk.png"
+     },
+     {
+     "name": "Number One Dance",
+     "streamURL": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8",
+     "imageURL": "nr1dance.png"
+     },
+     {
+     "name": "Number One Damar",
+     "streamURL": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8",
+     "imageURL": "nr1damar.png"
+     },
+     {
+     "name": "Number One Aşk",
+     "streamURL": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8",
+     "imageURL": "nr1ask.png"
+     },
+     {
+     "name": "Kral TV",
+     "streamURL": "https://dygvideo.dygdigital.com/live/hls/kraltv-snappy",
+     "imageURL": "kraltv.png"
+     },
+     {
+     "name": "Kral Pop TV",
+     "streamURL": "https://dygvideo.dygdigital.com/live/hls/kralpop-snappy",
+     "imageURL": "kralpoptvlogo.png"
+     },
+     {
+     "name": "Power TV",
+     "streamURL": "https://mn-nl.mncdn.com/blutv_power2/live.m3u8",
+     "imageURL": "powertv.png"
+     },
+     {
+     "name": "Power Türk TV",
+     "streamURL": "https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8",
+     "imageURL": "powerturk.png"
+     },
+     {
+     "name": "Power Dance TV",
+     "streamURL": "https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8",
+     "imageURL": "powerdance.png"
+     },
+     {
+     "name": "Power Love TV",
+     "streamURL": "https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8",
+     "imageURL": "powerlove.png"
+     },
+     {
+     "name": "Power Türk Akustik TV",
+     "streamURL": "https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8",
+     "imageURL": "powerturkakustik.png"
+     },
+     {
+     "name": "Power Türk En İyiler TV",
+     "streamURL": "https://listen.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playlist.m3u8",
+     "imageURL": "powerturkeniyiler.png"
+     },
+     {
+     "name": "Power Türk Taptaze TV",
+     "streamURL": "https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8",
+     "imageURL": "powerturktaptaze.png"
+     },
+     {
+     "name": "Power Türk Slow TV",
+     "streamURL": "https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8",
+     "imageURL": "powerturkslow.png"
+     },
+     {
+     "name": "Dream Türk TV",
+     "streamURL": "https://soledge13.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8",
+     "imageURL": "dreamturklogo.png"
+     },
+     {
+     "name": "Milyon TV",
+     "streamURL": "https://mn-nl.mncdn.com/blutv_milyontv/milyontv_sd.smil/playlist.m3u8",
+     "imageURL": "milyontv.png"
+     },
+     {
+     "name": "Fashion One TV",
+     "streamURL": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8",
+     "imageURL": "fashionone.png"
+     }
+     ]
+}
