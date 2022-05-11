@@ -298,7 +298,7 @@
      },
      {
      "name": "BRT 2",
-     "streamURL": "https://brt2canlitv.herokuapp.com/",
+     "streamURL": "http://wms.brtk.net:1935/live/brt1/playlist.m3u8",
      "imageURL": "brt2.png"
      },
      {
