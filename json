@@ -188,12 +188,12 @@
      },
      {
      "name": "TV 360",
-     "streamURL": "https://360tv.blutv.com/blutv_360tv_live/live.m3u8",
+     "streamURL": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
      "imageURL": "360_tv.png"
      },
      {
      "name": "24 TV",
-     "streamURL": "https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8",
+     "streamURL": "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8",
      "imageURL": "24tv.png"
      },
      {
@@ -268,7 +268,7 @@
      },
      {
      "name": "TV4",
-     "streamURL": "https://mn-nl.mncdn.com/blutv_tv4/live.m3u8",
+     "streamURL": "https://turkmedya-live.ercdn.net/tv4/tv4.m3u8",
      "imageURL": "tv4.png"
      },
      {
