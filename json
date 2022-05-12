@@ -302,6 +302,11 @@
      "imageURL": "brt2.png"
      },
      {
+     "name": "BRT 3",
+     "streamURL": "https://canlitvtoken.herokuapp.com?HLS=brt-3",
+     "imageURL": "brt3.png"
+     },
+     {
      "name": "TV52",
      "streamURL": "https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8",
      "imageURL": "tv52.png"
