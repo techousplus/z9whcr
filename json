@@ -382,6 +382,11 @@
      "imageURL": "fbtv.png"
      },
      {
+     "name": "Tivibu Spor",
+     "streamURL": "https://canlitvtoken.herokuapp.com?HLS=tivibu-spor",
+     "imageURL": "tivibuspor.png"
+     },
+     {
      "name": "Sports TV",
      "streamURL": "https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8",
      "imageURL": "sportstv.png"
