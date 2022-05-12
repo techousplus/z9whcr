@@ -178,7 +178,7 @@
      },
      {
      "name": "TGRT Belgesel",
-     "streamURL": "https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8",
+     "streamURL": "https://canlitvtoken.herokuapp.com?HLS=tgrt-belgesel",
      "imageURL": "tgrtbelgesel.png"
      },
      {
@@ -298,7 +298,7 @@
      },
      {
      "name": "BRT 2",
-     "streamURL": "http://wms.brtk.net:1935/live/brt1/playlist.m3u8",
+     "streamURL": "https://canlitvtoken.herokuapp.com?HLS=brt-2",
      "imageURL": "brt2.png"
      },
      {
