@@ -8,7 +8,7 @@
      },
      {
      "name": "TRT 2",
-     "streamURL": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
+     "streamURL": "https://liveredirecttrt2.herokuapp.com",
      "imageURL": "trt2logo.png"
      },
      {
