@@ -312,6 +312,11 @@
      "imageURL": "tv52.png"
      },
      {
+     "name": "UçanKuş TV",
+     "streamURL": "https://mn-nl.mncdn.com/blutv_ucankus2/live.m3u8",
+     "imageURL": "ucankus.png"
+     },
+     {
      "name": "Bizimev TV",
      "streamURL": "https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/index.m3u8",
      "imageURL": "bizimevtv.png"
