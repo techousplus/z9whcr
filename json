@@ -323,7 +323,7 @@
      },
      {
      "name": "TV5",
-     "streamURL": "http://iptvmasterlink.dyndns.org:8080/Tv5/playlist.m3u8",
+     "streamURL": "https://59cba4d34b678.streamlock.net/canlitv/tv5/playlist.m3u8",
      "imageURL": "tv5.png"
      },
      {
