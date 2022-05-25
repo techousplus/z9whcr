@@ -87,11 +87,6 @@
      "imageURL": "atv.png"
      },
      {
-     "name": "ATV Avrupa",
-     "streamURL": "https://canlitvtoken.herokuapp.com?HLS=atv-avrupa-12",
-     "imageURL": "atvavrupa.png"
-     },
-     {
      "name": "A2",
      "streamURL": "https://securevideotoken.tmgrup.com.tr/webtv/secure?url=https://trkvz-live.ercdn.net/a2tv/a2tv_720p.m3u8",
      "imageURL": "a2logo.png"
