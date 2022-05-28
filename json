@@ -93,7 +93,7 @@
      },
      {
      "name": "Kanal D",
-     "streamURL": "https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8",
+     "streamURL": "https://kanald.blutv.com/blutv_kanald_live/live.m3u8",
      "imageURL": "kanald.png"
      },
      {
@@ -103,7 +103,7 @@
      },
      {
      "name": "FOX TV",
-     "streamURL": "https://streamlinkquery.herokuapp.com/iptv-query?streaming-ip=https://www.fox.com.tr/canli-yayin",
+     "streamURL": "https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8",
      "imageURL": "foxtv.png"
      },
      {
