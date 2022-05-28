@@ -373,7 +373,7 @@
      },
      {
      "name": "beIN SPORTS HABER",
-     "streamURL": "r2vPH7d-_V8",
+     "streamURL": "https://canlitvtoken.herokuapp.com?HLS=bein-sports-haber",
      "imageURL": "beinsportshaber.png"
      },
      {
