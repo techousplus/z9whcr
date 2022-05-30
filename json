@@ -403,7 +403,7 @@
      },
      {
      "name": "TJK TV",
-     "streamURL": "https://tjktv.herokuapp.com/",
+     "streamURL": "https://tjktv-live.tjk.org/tjktv.m3u8",
      "imageURL": "tjktv.png"
      },
      {
