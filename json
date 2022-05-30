@@ -178,7 +178,7 @@
      },
      {
      "name": "TGRT Belgesel",
-     "streamURL": "https://canlitvtoken.herokuapp.com?HLS=tgrt-belgesel",
+     "streamURL": "http://techouspluslive.orgfree.com/canlitvtoken.php?channel=tgrt-belgesel",
      "imageURL": "tgrtbelgesel.png"
      },
      {
@@ -298,12 +298,12 @@
      },
      {
      "name": "BRT 2",
-     "streamURL": "https://canlitvtoken.herokuapp.com?HLS=brt-2",
+     "streamURL": "http://techouspluslive.orgfree.com/canlitvtoken.php?channel=brt-2",
      "imageURL": "brt2.png"
      },
      {
      "name": "BRT 3",
-     "streamURL": "https://canlitvtoken.herokuapp.com?HLS=brt-3",
+     "streamURL": "http://techouspluslive.orgfree.com/canlitvtoken.php?channel=brt-3",
      "imageURL": "brt3.png"
      },
      {
@@ -388,7 +388,7 @@
      },
      {
      "name": "Tivibu Spor",
-     "streamURL": "https://canlitvtoken.herokuapp.com?HLS=tivibu-spor",
+     "streamURL": "http://techouspluslive.orgfree.com/canlitvtoken.php?channel=tivibu-spor",
      "imageURL": "tivibuspor.png"
      },
      {
