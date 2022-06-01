@@ -133,7 +133,7 @@
      },
      {
      "name": "CNN Türk",
-     "streamURL": "https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8",
+     "streamURL": "https://cnnturk.blutv.com/blutv_cnnturk_live/live.m3u8",
      "imageURL": "CNN_Turk.png"
      },
      {
