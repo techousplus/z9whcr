@@ -402,6 +402,11 @@
      "imageURL": "taytv.png"
      },
      {
+     "name": "TJK TV",
+     "streamURL": "https://tjktv-live.tjk.org/tjktv.m3u8",
+     "imageURL": "tjktv.png"
+     },
+     {
      "name": "Diyanet TV",
      "streamURL": "https://mn-nl.mncdn.com/blutv_diyanet2/live.m3u8",
      "imageURL": "diyanettv.png"
