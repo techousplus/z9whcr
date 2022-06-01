@@ -347,11 +347,6 @@
      "imageURL": "ertv.png"
      },
      {
-     "name": "Yaban TV",
-     "streamURL": "http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8",
-     "imageURL": "yabantv.png"
-     },
-     {
      "name": "Çiftçi TV",
      "streamURL": "http://yerelmedya.tv:1935/ciftcitv/bant1/playlist.m3u8",
      "imageURL": "ciftcitv.png"
