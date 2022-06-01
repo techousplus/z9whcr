@@ -407,11 +407,6 @@
      "imageURL": "taytv.png"
      },
      {
-     "name": "TJK TV",
-     "streamURL": "https://tjktv-live.tjk.org/tjktv.m3u8",
-     "imageURL": "tjktv.png"
-     },
-     {
      "name": "Diyanet TV",
      "streamURL": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8",
      "imageURL": "diyanettv.png"
