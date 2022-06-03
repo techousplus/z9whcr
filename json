@@ -18,7 +18,7 @@
      },
      {
      "name": "TRT Spor",
-     "streamURL": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
+     "streamURL": "https://mn-nl.mncdn.com/blutv_trtspor_dvr/live.m3u8",
      "imageURL": "trtspor.png"
      },
      {
@@ -263,7 +263,7 @@
      },
      {
      "name": "Flash Haber TV",
-     "streamURL": "https://www.guventechnology.com:19360/flashtv/flashtv.m3u8",
+     "streamURL": "https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8",
      "imageURL": "flashtv.png"
      },
      {
@@ -323,7 +323,7 @@
      },
      {
      "name": "TV5",
-     "streamURL": "http://iptvmasterlink.dyndns.org:8080/Tv5/playlist.m3u8",
+     "streamURL": "https://59cba4d34b678.streamlock.net/canlitv/tv5/playlist.m3u8",
      "imageURL": "tv5.png"
      },
      {
@@ -393,7 +393,7 @@
      },
      {
      "name": "Sports TV",
-     "streamURL": "https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8",
+     "streamURL": "https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8",
      "imageURL": "sportstv.png"
      },
      {
