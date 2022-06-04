@@ -148,7 +148,7 @@
      },
      {
      "name": "TV8",
-     "streamURL": "https://tv8m3u8.herokuapp.com",
+     "streamURL": "https://59c7ea6bec1c6.streamlock.net/filbox/tv8.stream/playlist.m3u8",
      "imageURL": "tv8logo.png"
      },
      {
@@ -345,11 +345,6 @@
      "name": "ER TV",
      "streamURL": "https://mn-nl.mncdn.com/blutv_ertv2/live.m3u8",
      "imageURL": "ertv.png"
-     },
-     {
-     "name": "Yaban TV",
-     "streamURL": "https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8",
-     "imageURL": "yabantv.png"
      },
      {
      "name": "Çiftçi TV",
