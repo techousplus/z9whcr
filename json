@@ -30,7 +30,7 @@
     },
     {
       "name": "TRT Spor Yıldız",
-      "streamURL": "https://mn-nl.mncdn.com/blutv_trtsporyildiz_dvr/live.m3u8",
+      "streamURL": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8",
       "imageURL": "trtspor2.png",
       "epgID": "TRTSporYildiz.tr",
       "epgNumber": "1"
@@ -128,7 +128,7 @@
     },
     {
       "name": "Kanal D",
-      "streamURL": "https://kanald.blutv.com/blutv_kanald_live/live.m3u8",
+      "streamURL": "https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8",
       "imageURL": "kanald.png",
       "epgID": "KanalD.tr",
       "epgNumber": "1"
@@ -142,21 +142,21 @@
     },
     {
       "name": "FOX TV",
-      "streamURL": "https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8",
+      "streamURL": "https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8",
       "imageURL": "foxtv.png",
       "epgID": "FoxTurkey.us",
       "epgNumber": "1"
     },
     {
       "name": "NTV",
-      "streamURL": "https://ntv.blutv.com/blutv_ntv_live/live.m3u8",
+      "streamURL": "https://mn-nl.mncdn.com/blutv_ntv2/live.m3u8",
       "imageURL": "ntvlogo.png",
       "epgID": "NTV.tr",
       "epgNumber": "1"
     },
     {
       "name": "Show TV",
-      "streamURL": "https://showtvdvr.blutv.com/blutv_showtv_dvr2/live.m3u8",
+      "streamURL": "https://mn-nl.mncdn.com/blutv_showtv_dvr/live.m3u8",
       "imageURL": "showtv.png",
       "epgID": "ShowTV.tr",
       "epgNumber": "1"
@@ -177,14 +177,14 @@
     },
     {
       "name": "Star TV",
-      "streamURL": "https://startv.blutv.com/blutv_startv_live/live.m3u8",
+      "streamURL": "https://mn-nl.mncdn.com/blutv_startv2/live.m3u8",
       "imageURL": "startv.png",
       "epgID": "StarTV.tr",
       "epgNumber": "1"
     },
     {
       "name": "CNN Türk",
-      "streamURL": "https://cnnturk.blutv.com/blutv_cnnturk_live/live.m3u8",
+      "streamURL": "https://mn-nl.mncdn.com/blutv_cnnturk2/live.m3u8",
       "imageURL": "CNN_Turk.png",
       "epgID": "CNNTurk.tr",
       "epgNumber": "1"
@@ -198,7 +198,7 @@
     },
     {
       "name": "Tele 1",
-      "streamURL": "https://tele1.blutv.com/blutv_tele1_live/live.m3u8",
+      "streamURL": "https://mn-nl.mncdn.com/blutv_tele12/live.m3u8",
       "imageURL": "tele1.png",
       "epgID": "Tele1.tr",
       "epgNumber": "1"
@@ -219,7 +219,7 @@
     },
     {
       "name": "TV8,5",
-      "streamURL": "https://tv85dvr.blutv.com/blutv_tv8_5_dvr2/live.m3u8",
+      "streamURL": "https://mn-nl.mncdn.com/blutv_tv8_5_dvr/live.m3u8",
       "imageURL": "TV8.5_Logosu.png",
       "epgID": "TV85.tr",
       "epgNumber": "2"
@@ -233,7 +233,7 @@
     },
     {
       "name": "TV100",
-      "streamURL": "https://tv100.blutv.com/blutv_tv100_live/live.m3u8",
+      "streamURL": "https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8",
       "imageURL": "tv100.png",
       "epgID": "TV100.tr",
       "epgNumber": "1"
@@ -254,7 +254,7 @@
     },
     {
       "name": "Habertürk",
-      "streamURL": "https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8",
+      "streamURL": "https://mn-nl.mncdn.com/blutv_haberturk2/live.m3u8",
       "imageURL": "haberturk-logo.png",
       "epgID": "Haberturk.tr",
       "epgNumber": "1"
@@ -275,7 +275,7 @@
     },
     {
       "name": "Beyaz TV",
-      "streamURL": "https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8",
+      "streamURL": "https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8",
       "imageURL": "beyaztv.png",
       "epgID": "BeyazTV.tr",
       "epgNumber": "1"
@@ -303,14 +303,14 @@
     },
     {
       "name": "KRT TV",
-      "streamURL": "https://krt.blutv.com/blutv_krt_live/live.m3u8",
+      "streamURL": "https://mn-nl.mncdn.com/blutv_krt/live.m3u8",
       "imageURL": "krttv.png",
       "epgID": "KRT.tr",
       "epgNumber": "1"
     },
     {
       "name": "Kanal 7",
-      "streamURL": "https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8",
+      "streamURL": "https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8",
       "imageURL": "kanal7.png",
       "epgID": "Kanal7.tr",
       "epgNumber": "1"
@@ -352,7 +352,7 @@
     },
     {
       "name": "Teve2",
-      "streamURL": "https://teve2.blutv.com/blutv_teve2_live/live.m3u8",
+      "streamURL": "https://mn-nl.mncdn.com/blutv_teve22/live.m3u8",
       "imageURL": "teve2.png",
       "epgID": "Teve2.tr",
       "epgNumber": "1"
@@ -499,7 +499,7 @@
     },
     {
       "name": "TLC Türkiye",
-      "streamURL": "https://tlc.blutv.com/blutv_tlc_live/live.m3u8",
+      "streamURL": "https://mn-nl.mncdn.com/blutv_tlc2/live.m3u8",
       "imageURL": "tlclogo.png",
       "epgID": "TLCTurkey.us",
       "epgNumber": "1"
