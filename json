@@ -292,7 +292,7 @@
     },
     {
       "name": "BRT 1",
-      "streamURL": "https://kuzeykibris.tv/m3u8/tv_brt1.m3u8",
+      "streamURL": "http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8",
       "imageURL": "brt1.png"
     },
     {
