@@ -247,7 +247,7 @@
     },
     {
       "name": "TGRT Belgesel",
-      "streamURL": "https://tv.ensonhaber.com/tv/tr//tgrtbelgesel/index.m3u8",
+      "streamURL": "http://techouspluslive.orgfree.com/canlitvtoken.php?channel=tgrt-belgesel",
       "imageURL": "tgrtbelgesel.png",
       "epgID": "",
       "epgNumber": "0"
