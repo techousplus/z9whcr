@@ -352,7 +352,7 @@
     },
     {
       "name": "Teve2",
-      "streamURL": "https://mn-nl.mncdn.com/blutv_teve22/live.m3u8",
+      "streamURL": "https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8",
       "imageURL": "teve2.png",
       "epgID": "Teve2.tr",
       "epgNumber": "1"
