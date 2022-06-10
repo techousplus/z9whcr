@@ -165,15 +165,15 @@
       "name": "Show Türk",
       "streamURL": "https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8",
       "imageURL": "showturk.png",
-      "epgID": "",
-      "epgNumber": "0"
+      "epgID": "ShowTurk.tr",
+      "epgNumber": "3"
     },
     {
       "name": "Show Max",
       "streamURL": "https://techouslivesquery.herokuapp.com/iptv-query?streaming-ip=http://www.showmax.com.tr/canliyayin",
       "imageURL": "showmax.png",
-      "epgID": "",
-      "epgNumber": "0"
+      "epgID": "ShowMax.tr",
+      "epgNumber": "3"
     },
     {
       "name": "Star TV",
@@ -396,36 +396,36 @@
       "name": "Akit TV",
       "streamURL": "https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8",
       "imageURL": "akittv.png",
-      "epgID": "",
-      "epgNumber": "0"
+      "epgID": "AkitTV.tr",
+      "epgNumber": "5"
     },
     {
       "name": "Bengü Türk",
       "streamURL": "https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8",
       "imageURL": "benguturk.png",
-      "epgID": "",
-      "epgNumber": "0"
+      "epgID": "BenguturkTV.tr",
+      "epgNumber": "5"
     },
     {
       "name": "BRT 1",
       "streamURL": "http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8",
       "imageURL": "brt1.png",
-      "epgID": "",
-      "epgNumber": "0"
+      "epgID": "BRT1.cy",
+      "epgNumber": "5"
     },
     {
       "name": "BRT 2",
       "streamURL": "http://techouspluslive.orgfree.com/canlitvtoken.php?channel=brt-2",
       "imageURL": "brt2.png",
-      "epgID": "",
-      "epgNumber": "0"
+      "epgID": "BRT2.cy",
+      "epgNumber": "5"
     },
     {
       "name": "BRT 3",
       "streamURL": "http://techouspluslive.orgfree.com/canlitvtoken.php?channel=brt-3",
       "imageURL": "brt3.png",
       "epgID": "",
-      "epgNumber": "0"
+      "epgNumber": ""
     },
     {
       "name": "TV52",
@@ -445,8 +445,8 @@
       "name": "Bizimev TV",
       "streamURL": "https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/index.m3u8",
       "imageURL": "bizimevtv.png",
-      "epgID": "",
-      "epgNumber": "0"
+      "epgID": "BizimevTV.tr",
+      "epgNumber": "5"
     },
     {
       "name": "TV5",
@@ -466,8 +466,8 @@
       "name": "KON TV",
       "streamURL": "https://mn-nl.mncdn.com/blutv_kontv2/live.m3u8",
       "imageURL": "kontv.png",
-      "epgID": "",
-      "epgNumber": "0"
+      "epgID": "KonTV.tr",
+      "epgNumber": "5"
     },
     {
       "name": "Malatya Vuslat TV",
@@ -494,8 +494,8 @@
       "name": "Çiftçi TV",
       "streamURL": "http://yerelmedya.tv:1935/ciftcitv/bant1/playlist.m3u8",
       "imageURL": "ciftcitv.png",
-      "epgID": "",
-      "epgNumber": "0"
+      "epgID": "CiftciTV.tr",
+      "epgNumber": "5"
     },
     {
       "name": "TLC Türkiye",
@@ -557,8 +557,8 @@
       "name": "Sports TV",
       "streamURL": "https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8",
       "imageURL": "sportstv.png",
-      "epgID": "",
-      "epgNumber": "0"
+      "epgID": "SportsTV.tr",
+      "epgNumber": "5"
     },
     {
       "name": "TAY TV",
@@ -592,8 +592,8 @@
       "name": "Semerkand TV",
       "streamURL": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8",
       "imageURL": "semerkandtv.png",
-      "epgID": "",
-      "epgNumber": "0"
+      "epgID": "SemerkandTV.tr",
+      "epgNumber": "5"
     },
     {
       "name": "Lalegül TV",
@@ -621,14 +621,14 @@
       "streamURL": "https://securevideotoken.tmgrup.com.tr/webtv/secure?url=https://trkvz-live.ercdn.net/minikago/minikago_576p.m3u8",
       "imageURL": "minikago.png",
       "epgID": "MinikaGo.tr",
-      "epgNumber": "1"
+      "epgNumber": "5"
     },
     {
       "name": "Minika Çocuk",
       "streamURL": "https://securevideotoken.tmgrup.com.tr/webtv/secure?url=https://trkvz-live.ercdn.net/minikagococuk/minikagococuk_576p.m3u8",
       "imageURL": "minikacocuk.png",
-      "epgID": "",
-      "epgNumber": "0"
+      "epgID": "MinikaCocuk.tr",
+      "epgNumber": "5"
     },
     {
       "name": "Cartoon Network",
@@ -642,35 +642,35 @@
       "streamURL": "https://mn-nl.mncdn.com/blutv_nr12/live.m3u8",
       "imageURL": "nr1.png",
       "epgID": "Number1TV.tr",
-      "epgNumber": "2"
+      "epgNumber": "5"
     },
     {
       "name": "Number One Türk",
       "streamURL": "https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8",
       "imageURL": "nr1turk.png",
       "epgID": "Number1Turk.tr",
-      "epgNumber": "2"
+      "epgNumber": "5"
     },
     {
       "name": "Number One Dance",
       "streamURL": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8",
       "imageURL": "nr1dance.png",
-      "epgID": "",
-      "epgNumber": "0"
+      "epgID": "Number1Dance.tr",
+      "epgNumber": "5"
     },
     {
       "name": "Number One Damar",
       "streamURL": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8",
       "imageURL": "nr1damar.png",
-      "epgID": "",
-      "epgNumber": "0"
+      "epgID": "Number1Damar.tr",
+      "epgNumber": "5"
     },
     {
       "name": "Number One Aşk",
       "streamURL": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8",
       "imageURL": "nr1ask.png",
-      "epgID": "",
-      "epgNumber": "0"
+      "epgID": "Number1Ask.tr",
+      "epgNumber": "5"
     },
     {
       "name": "Kral TV",
@@ -691,14 +691,14 @@
       "streamURL": "https://mn-nl.mncdn.com/blutv_power2/live.m3u8",
       "imageURL": "powertv.png",
       "epgID": "PowerTV.tr",
-      "epgNumber": "2"
+      "epgNumber": "5"
     },
     {
       "name": "Power Türk TV",
       "streamURL": "https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8",
       "imageURL": "powerturk.png",
-      "epgID": "",
-      "epgNumber": "0"
+      "epgID": "PowerTurkTV.tr",
+      "epgNumber": "5"
     },
     {
       "name": "Power Dance TV",
@@ -746,8 +746,8 @@
       "name": "Dream Türk TV",
       "streamURL": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8",
       "imageURL": "dreamturklogo.png",
-      "epgID": "",
-      "epgNumber": "0"
+      "epgID": "DreamTurk.tr",
+      "epgNumber": "5"
     },
     {
       "name": "Milyon TV",
