@@ -159,7 +159,7 @@
       "streamURL": "https://mn-nl.mncdn.com/blutv_showtv_dvr/live.m3u8",
       "imageURL": "showtv.png",
       "epgID": "ShowTV.tr",
-      "epgNumber": "1"
+      "epgNumber": "5"
     },
     {
       "name": "Show Türk",
@@ -376,7 +376,7 @@
       "streamURL": "https://turkmedya-live.ercdn.net/tv4/tv4.m3u8",
       "imageURL": "tv4.png",
       "epgID": "TV4.tr",
-      "epgNumber": "2"
+      "epgNumber": "5"
     },
     {
       "name": "EKOTÜRK",
@@ -586,7 +586,7 @@
       "streamURL": "https://securevideotoken.tmgrup.com.tr/webtv/secure?url=https://trkvz-live.ercdn.net/vavtv/vavtv_720p.m3u8&url2=https://trkvz-live.ercdn.net/vavtv/vavtv.m3u8",
       "imageURL": "vavtv.png",
       "epgID": "VavTV.tr",
-      "epgNumber": "1"
+      "epgNumber": "5"
     },
     {
       "name": "Semerkand TV",
