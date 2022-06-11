@@ -117,21 +117,21 @@
       "streamURL": "https://securevideotoken.tmgrup.com.tr/webtv/secure?url=https://trkvz-live.ercdn.net/atvhd/atvhd_720p.m3u8",
       "imageURL": "atv.png",
       "epgID": "ATV.tr",
-      "epgNumber": "1"
+      "epgNumber": "5"
     },
     {
       "name": "A2",
       "streamURL": "https://securevideotoken.tmgrup.com.tr/webtv/secure?url=https://trkvz-live.ercdn.net/a2tv/a2tv_720p.m3u8",
       "imageURL": "a2logo.png",
       "epgID": "A2.tr",
-      "epgNumber": "1"
+      "epgNumber": "5"
     },
     {
       "name": "Kanal D",
       "streamURL": "https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8",
       "imageURL": "kanald.png",
       "epgID": "KanalD.tr",
-      "epgNumber": "1"
+      "epgNumber": "5"
     },
     {
       "name": "Euro D",
@@ -208,7 +208,7 @@
       "streamURL": "https://tv8m3u8.herokuapp.com/",
       "imageURL": "tv8logo.png",
       "epgID": "TV8.tr",
-      "epgNumber": "1"
+      "epgNumber": "5"
     },
     {
       "name": "TV8 Int",
@@ -222,7 +222,7 @@
       "streamURL": "https://mn-nl.mncdn.com/blutv_tv8_5_dvr/live.m3u8",
       "imageURL": "TV8.5_Logosu.png",
       "epgID": "TV85.tr",
-      "epgNumber": "2"
+      "epgNumber": "5"
     },
     {
       "name": "Halk TV",
@@ -243,7 +243,7 @@
       "streamURL": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8",
       "imageURL": "tgrthaberlogo.png",
       "epgID": "TGRTHaber.tr",
-      "epgNumber": "1"
+      "epgNumber": "5"
     },
     {
       "name": "TGRT Belgesel",
@@ -264,21 +264,21 @@
       "streamURL": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
       "imageURL": "360_tv.png",
       "epgID": "360.tr",
-      "epgNumber": "1"
+      "epgNumber": "5"
     },
     {
       "name": "24 TV",
       "streamURL": "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8",
       "imageURL": "24tv.png",
       "epgID": "24TV.tr",
-      "epgNumber": "1"
+      "epgNumber": "5"
     },
     {
       "name": "Beyaz TV",
       "streamURL": "https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8",
       "imageURL": "beyaztv.png",
       "epgID": "BeyazTV.tr",
-      "epgNumber": "1"
+      "epgNumber": "5"
     },
     {
       "name": "Artı TV",
@@ -313,7 +313,7 @@
       "streamURL": "https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8",
       "imageURL": "kanal7.png",
       "epgID": "Kanal7.tr",
-      "epgNumber": "1"
+      "epgNumber": "5"
     },
     {
       "name": "Kanal 7 Avrupa",
@@ -334,28 +334,28 @@
       "streamURL": "https://securevideotoken.tmgrup.com.tr/webtv/secure?url=https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8",
       "imageURL": "A_Haber_logosu.png",
       "epgID": "AHaber.tr",
-      "epgNumber": "1"
+      "epgNumber": "5"
     },
     {
       "name": "A Spor",
       "streamURL": "https://securevideotoken.tmgrup.com.tr/webtv/secure?url=https://trkvz-live.ercdn.net/asporhd/asporhd_720p.m3u8",
       "imageURL": "aspor.png",
       "epgID": "ASpor.tr",
-      "epgNumber": "1"
+      "epgNumber": "5"
     },
     {
       "name": "A Para",
       "streamURL": "https://securevideotoken.tmgrup.com.tr/webtv/secure?url=https://trkvz-live.ercdn.net/aparahd/aparahd_720p.m3u8",
       "imageURL": "apara.png",
       "epgID": "APara.tr",
-      "epgNumber": "1"
+      "epgNumber": "5"
     },
     {
       "name": "Teve2",
       "streamURL": "https://mn-nl.mncdn.com/blutv_teve22/live.m3u8",
       "imageURL": "teve2.png",
       "epgID": "Teve2.tr",
-      "epgNumber": "1"
+      "epgNumber": "5"
     },
     {
       "name": "TVNET",
