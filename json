@@ -23,14 +23,14 @@
     },
     {
       "name": "TRT Spor",
-      "streamURL": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
+      "streamURL": "https://mn-nl.mncdn.com/blutv_trtspor_dvr/live.m3u8",
       "imageURL": "trtspor.png",
       "epgID": "TRTSpor.tr",
       "epgNumber": "2"
     },
     {
       "name": "TRT Spor Yıldız",
-      "streamURL": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8",
+      "streamURL": "https://mn-nl.mncdn.com/blutv_trtsporyildiz_dvr/live.m3u8",
       "imageURL": "trtspor2.png",
       "epgID": "TRTSporYildiz.tr",
       "epgNumber": "1"
@@ -415,7 +415,7 @@
     },
     {
       "name": "BRT 2",
-      "streamURL": "http://techouspluslive.orgfree.com/canlitvtoken.php?channel=brt-2",
+      "streamURL": "http://wms.brtk.net:1935/live/brt1/playlist.m3u8",
       "imageURL": "brt2.png",
       "epgID": "",
       "epgNumber": "0"
@@ -534,7 +534,7 @@
     },
     {
       "name": "FB TV",
-      "streamURL": "http://techouspluslive.orgfree.com/canlitvtoken.php?channel=fb-tv",
+      "streamURL": "https://techouslivesquery.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/embed/video/x21oo10",
       "imageURL": "fbtv.png",
       "epgID": "FBTV.tr",
       "epgNumber": "1"
