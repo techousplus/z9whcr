@@ -534,7 +534,7 @@
     },
     {
       "name": "FB TV",
-      "streamURL": "https://techouslivesquery.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/embed/video/x21oo10",
+      "streamURL": "http://techouspluslive.orgfree.com/canlitvtoken.php?channel=fb-tv",
       "imageURL": "fbtv.png",
       "epgID": "FBTV.tr",
       "epgNumber": "1"
