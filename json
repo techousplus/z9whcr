@@ -165,8 +165,8 @@
       "name": "Show Türk",
       "streamURL": "https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8",
       "imageURL": "showturk.png",
-      "epgID": "ShowTurk.tr",
-      "epgNumber": "3"
+      "epgID": "",
+      "epgNumber": "0"
     },
     {
       "name": "Show Max",
