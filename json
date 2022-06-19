@@ -576,7 +576,7 @@
     },
     {
       "name": "Diyanet TV",
-      "streamURL": "https://mn-nl.mncdn.com/blutv_diyanet2/live.m3u8",
+      "streamURL": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8",
       "imageURL": "diyanettv.png",
       "epgID": "DiyanetTV.tr",
       "epgNumber": "1"
