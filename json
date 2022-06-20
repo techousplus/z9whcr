@@ -23,7 +23,7 @@
     },
     {
       "name": "TRT Spor",
-      "streamURL": "https://mn-nl.mncdn.com/blutv_trtspor_dvr/live.m3u8",
+      "streamURL": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
       "imageURL": "trtspor.png",
       "epgID": "TRTSpor.tr",
       "epgNumber": "2"
