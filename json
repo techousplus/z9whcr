@@ -170,7 +170,7 @@
     },
     {
       "name": "Show Max",
-      "streamURL": "https://techouslivesquery.herokuapp.com/iptv-query?streaming-ip=http://www.showmax.com.tr/canliyayin",
+      "streamURL": "http://techouspluslive.orgfree.com/canlitvtoken.php?channel=show-max",
       "imageURL": "showmax.png",
       "epgID": "ShowMax.tr",
       "epgNumber": "3"
