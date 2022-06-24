@@ -170,7 +170,7 @@
     },
     {
       "name": "Show Max",
-      "streamURL": "http://techouspluslive.orgfree.com/canlitvtoken.php?channel=show-max",
+      "streamURL": "https://techouslivesquery.herokuapp.com/iptv-query?streaming-ip=http://www.showmax.com.tr/canliyayin",
       "imageURL": "showmax.png",
       "epgID": "ShowMax.tr",
       "epgNumber": "3"
@@ -205,7 +205,7 @@
     },
     {
       "name": "TV8",
-      "streamURL": "https://tv8m3u8.herokuapp.com",
+      "streamURL": "https://59c7ea6bec1c6.streamlock.net/filbox/tv8.stream/playlist.m3u8",
       "imageURL": "tv8logo.png",
       "epgID": "TV8.tr",
       "epgNumber": "5"
