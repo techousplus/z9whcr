@@ -128,7 +128,7 @@
     },
     {
       "name": "Kanal D",
-      "streamURL": "https://kanald.blutv.com/blutv_kanald_live/live.m3u8",
+      "streamURL": "https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8",
       "imageURL": "kanald.png",
       "epgID": "KanalD.tr",
       "epgNumber": "5"
@@ -177,14 +177,14 @@
     },
     {
       "name": "Star TV",
-      "streamURL": "https://startv.blutv.com/blutv_startv_live/live.m3u8",
+      "streamURL": "https://dogus-live.daioncdn.net/startv/playlist.m3u8",
       "imageURL": "startv.png",
       "epgID": "StarTV.tr",
       "epgNumber": "1"
     },
     {
       "name": "CNN Türk",
-      "streamURL": "https://cnnturk.blutv.com/blutv_cnnturk_live/live.m3u8",
+      "streamURL": "https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8",
       "imageURL": "CNN_Turk.png",
       "epgID": "CNNTurk.tr",
       "epgNumber": "1"
@@ -310,7 +310,7 @@
     },
     {
       "name": "Kanal 7",
-      "streamURL": "https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8",
+      "streamURL": "https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8",
       "imageURL": "kanal7.png",
       "epgID": "Kanal7.tr",
       "epgNumber": "5"
@@ -352,7 +352,7 @@
     },
     {
       "name": "Teve2",
-      "streamURL": "https://teve2dvr.blutv.com/blutv_teve2_dvr2/live.m3u8",
+      "streamURL": "https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8",
       "imageURL": "teve2.png",
       "epgID": "Teve2.tr",
       "epgNumber": "5"
@@ -464,7 +464,7 @@
     },
     {
       "name": "KON TV",
-      "streamURL": "https://mn-nl.mncdn.com/blutv_kontv2/live.m3u8",
+      "streamURL": "https://59cba4d34b678.streamlock.net/canlitv/kontv/playlist.m3u8",
       "imageURL": "kontv.png",
       "epgID": "KonTV.tr",
       "epgNumber": "5"
@@ -499,14 +499,14 @@
     },
     {
       "name": "TLC Türkiye",
-      "streamURL": "https://tlc.blutv.com/blutv_tlc_live/live.m3u8",
+      "streamURL": "https://dogus-live.daioncdn.net/tlc/playlist.m3u8",
       "imageURL": "tlclogo.png",
       "epgID": "TLCTurkey.us",
       "epgNumber": "1"
     },
     {
       "name": "DMAX TV",
-      "streamURL": "https://mn-nl.mncdn.com/blutv_dmax2/live.m3u8",
+      "streamURL": "https://dogus-live.daioncdn.net/dmax/playlist.m3u8",
       "imageURL": "dmaxtv.png",
       "epgID": "DMAXTurkey.tr",
       "epgNumber": "1"
