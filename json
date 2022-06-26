@@ -177,7 +177,7 @@
     },
     {
       "name": "Star TV",
-      "streamURL": "https://dogus-live.daioncdn.net/startv/playlist.m3u8",
+      "streamURL": "hhttps://startv.blutv.com/blutv_startv_live/live.m3u8",
       "imageURL": "startv.png",
       "epgID": "StarTV.tr",
       "epgNumber": "1"
@@ -688,14 +688,14 @@
     },
     {
       "name": "Power TV",
-      "streamURL": "https://mn-nl.mncdn.com/blutv_power2/live.m3u8",
+      "streamURL": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8",
       "imageURL": "powertv.png",
       "epgID": "PowerTV.tr",
       "epgNumber": "5"
     },
     {
       "name": "Power Türk TV",
-      "streamURL": "https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8",
+      "streamURL": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8",
       "imageURL": "powerturk.png",
       "epgID": "PowerTurkTV.tr",
       "epgNumber": "5"
