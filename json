@@ -177,7 +177,7 @@
     },
     {
       "name": "Star TV",
-      "streamURL": "hhttps://startv.blutv.com/blutv_startv_live/live.m3u8",
+      "streamURL": "https://startv.blutv.com/blutv_startv_live/live.m3u8",
       "imageURL": "startv.png",
       "epgID": "StarTV.tr",
       "epgNumber": "1"
