@@ -205,7 +205,7 @@
     },
     {
       "name": "TV8",
-      "streamURL": "https://techouslivesqueryalt.herokuapp.com/iptv-query?streaming-ip=https://www.tv8.com.tr/canli-yayin",
+      "streamURL": "https://59c7ea6bec1c6.streamlock.net/filbox/tv8.stream/playlist.m3u8",
       "imageURL": "tv8logo.png",
       "epgID": "TV8.tr",
       "epgNumber": "5"
@@ -464,7 +464,7 @@
     },
     {
       "name": "KON TV",
-      "streamURL": "https://59cba4d34b678.streamlock.net/canlitv/kontv/playlist.m3u8",
+      "streamURL": "https://mn-nl.mncdn.com/blutv_kontv2/live.m3u8",
       "imageURL": "kontv.png",
       "epgID": "KonTV.tr",
       "epgNumber": "5"
