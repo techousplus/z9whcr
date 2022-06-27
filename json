@@ -170,7 +170,7 @@
     },
     {
       "name": "Show Max",
-      "streamURL": "https://europe-west3-techous-plus-live-354616.cloudfunctions.net/techouslivetoken?channel=show-max",
+      "streamURL": "https://techouslivesqueryalt.herokuapp.com/iptv-query?streaming-ip=http://www.showmax.com.tr/canliyayin",
       "imageURL": "showmax.png",
       "epgID": "ShowMax.tr",
       "epgNumber": "3"
