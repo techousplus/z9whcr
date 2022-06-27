@@ -247,7 +247,7 @@
     },
     {
       "name": "TGRT Belgesel",
-      "streamURL": "http://jq72nh.ueuo.com/qwerty.php?channel=tgrt-belgesel",
+      "streamURL": "https://europe-west3-techous-plus-live-354616.cloudfunctions.net/techouslivetoken?channel=tgrt-belgesel",
       "imageURL": "tgrtbelgesel.png",
       "epgID": "",
       "epgNumber": "0"
@@ -408,21 +408,21 @@
     },
     {
       "name": "BRT 1",
-      "streamURL": "http://jq72nh.ueuo.com/qwerty.php?channel=brt-1",
+      "streamURL": "https://europe-west3-techous-plus-live-354616.cloudfunctions.net/techouslivetoken?channel=brt-1",
       "imageURL": "brt1.png",
       "epgID": "",
       "epgNumber": "0"
     },
     {
       "name": "BRT 2",
-      "streamURL": "http://jq72nh.ueuo.com/qwerty.php?channel=brt-2",
+      "streamURL": "https://europe-west3-techous-plus-live-354616.cloudfunctions.net/techouslivetoken?channel=brt-2",
       "imageURL": "brt2.png",
       "epgID": "",
       "epgNumber": "0"
     },
     {
       "name": "BRT 3",
-      "streamURL": "http://jq72nh.ueuo.com/qwerty.php?channel=brt-3",
+      "streamURL": "https://europe-west3-techous-plus-live-354616.cloudfunctions.net/techouslivetoken?channel=brt-3",
       "imageURL": "brt3.png",
       "epgID": "",
       "epgNumber": "0"
@@ -541,7 +541,7 @@
     },
     {
       "name": "Tivibu Spor",
-      "streamURL": "http://jq72nh.ueuo.com/qwerty.php?channel=tivibu-spor",
+      "streamURL": "https://europe-west3-techous-plus-live-354616.cloudfunctions.net/techouslivetoken?channel=tivibu-spor",
       "imageURL": "tivibuspor.png",
       "epgID": "",
       "epgNumber": "0"
