@@ -450,7 +450,7 @@
     },
     {
       "name": "TV5",
-      "streamURL": "http://iptvmasterlink.dyndns.org:8080/Tv5/playlist.m3u8",
+      "streamURL": "https://59cba4d34b678.streamlock.net/canlitv/tv5/playlist.m3u8",
       "imageURL": "tv5.png",
       "epgID": "",
       "epgNumber": "0"
@@ -534,7 +534,7 @@
     },
     {
       "name": "FB TV",
-      "streamURL": "http://iptvmasterlink.dyndns.org:8080/FbTv/playlist.m3u8",
+      "streamURL": "https://europe-west3-techous-plus-live-354616.cloudfunctions.net/techouslivetoken?channel=fb-tv",
       "imageURL": "fbtv.png",
       "epgID": "FBTV.tr",
       "epgNumber": "1"
