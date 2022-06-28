@@ -282,7 +282,7 @@
     },
     {
       "name": "Artı TV",
-      "streamURL": "https://techouslivesqueryalt.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/ArtıTv_Resmi/live",
+      "streamURL": "https://techouslivesqueryalt.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCxVicskgBc8OD66iLKc7Uaw",
       "imageURL": "artıtv.png",
       "epgID": "",
       "epgNumber": "0"
