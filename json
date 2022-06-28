@@ -688,7 +688,7 @@
     },
     {
       "name": "Power TV",
-      "streamURL": "https://mn-nl.mncdn.com/blutv_power2/live.m3u8",
+      "streamURL": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8",
       "imageURL": "powertv.png",
       "epgID": "PowerTV.tr",
       "epgNumber": "5"
