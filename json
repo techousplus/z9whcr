@@ -282,7 +282,7 @@
     },
     {
       "name": "Artı TV",
-      "streamURL": "TG2bCM0fQEQ",
+      "streamURL": "https://techouslivesqueryalt.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/ArtıTv_Resmi/live",
       "imageURL": "artıtv.png",
       "epgID": "",
       "epgNumber": "0"
@@ -688,7 +688,7 @@
     },
     {
       "name": "Power TV",
-      "streamURL": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8",
+      "streamURL": "https://mn-nl.mncdn.com/blutv_power2/live.m3u8",
       "imageURL": "powertv.png",
       "epgID": "PowerTV.tr",
       "epgNumber": "5"
