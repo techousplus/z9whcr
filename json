@@ -547,13 +547,6 @@
       "epgNumber": "0"
     },
     {
-      "name": "CBC Sport",
-      "streamURL": "https://59c7ea6bec1c6.streamlock.net/filbox/cbcsport.stream/playlist.m3u8",
-      "imageURL": "cbcsport.png",
-      "epgID": "",
-      "epgNumber": "0"
-    },
-    {
       "name": "Sports TV",
       "streamURL": "https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8",
       "imageURL": "sportstv.png",
