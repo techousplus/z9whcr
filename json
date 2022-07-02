@@ -30,7 +30,7 @@
     },
     {
       "name": "TRT Spor Yıldız",
-      "streamURL": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8",
+      "streamURL": "https://mn-nl.mncdn.com/blutv_trtsporyildiz_dvr/live.m3u8",
       "imageURL": "trtspor2.png",
       "epgID": "TRTSporYildiz.tr",
       "epgNumber": "1"
