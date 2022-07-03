@@ -359,7 +359,7 @@
     },
     {
       "name": "TVNET",
-      "streamURL": "https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8",
+      "streamURL": "https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8",
       "imageURL": "tvnetlogo.png",
       "epgID": "TVNet.tr",
       "epgNumber": "1"
@@ -667,14 +667,14 @@
     },
     {
       "name": "Kral TV",
-      "streamURL": "https://dygvideo.dygdigital.com/live/hls/kraltv-snappy",
+      "streamURL": "https://dogus-live.daioncdn.net/kraltv/playlist.m3u8",
       "imageURL": "kraltv.png",
       "epgID": "",
       "epgNumber": "0"
     },
     {
       "name": "Kral Pop TV",
-      "streamURL": "https://dygvideo.dygdigital.com/live/hls/kralpop-snappy",
+      "streamURL": "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8",
       "imageURL": "kralpoptvlogo.png",
       "epgID": "",
       "epgNumber": "0"
