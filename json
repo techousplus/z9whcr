@@ -163,7 +163,7 @@
     },
     {
       "name": "Show Türk",
-      "streamURL": "https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8",
+      "streamURL": "https://techouslivesqueryalt.herokuapp.com/iptv-query?streaming-ip=https://www.showturk.com.tr/canli-yayin/showturk",
       "imageURL": "showturk.png",
       "epgID": "",
       "epgNumber": "0"
@@ -240,7 +240,7 @@
     },
     {
       "name": "TGRT Haber",
-      "streamURL": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8",
+      "streamURL": "https://mn-nl.mncdn.com/blutv_tgrthaber2/live.m3u8",
       "imageURL": "tgrthaberlogo.png",
       "epgID": "TGRTHaber.tr",
       "epgNumber": "5"
