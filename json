@@ -240,7 +240,7 @@
     },
     {
       "name": "TGRT Haber",
-      "streamURL": "https://mn-nl.mncdn.com/blutv_tgrthaber2/live.m3u8",
+      "streamURL": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8",
       "imageURL": "tgrthaberlogo.png",
       "epgID": "TGRTHaber.tr",
       "epgNumber": "5"
@@ -387,7 +387,7 @@
     },
     {
       "name": "Ülke TV",
-      "streamURL": "https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8",
+      "streamURL": "http://iptvmasterlink.dyndns.org:8080/UlkeTv/playlist.m3u8",
       "imageURL": "ulketv.png",
       "epgID": "UlkeTV.tr",
       "epgNumber": "1"
