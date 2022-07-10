@@ -254,7 +254,7 @@
     },
     {
       "name": "Habertürk",
-      "streamURL": "https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8",
+      "streamURL": "https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8",
       "imageURL": "haberturk-logo.png",
       "epgID": "Haberturk.tr",
       "epgNumber": "1"
