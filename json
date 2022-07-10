@@ -23,14 +23,14 @@
     },
     {
       "name": "TRT Spor",
-      "streamURL": "https://mn-nl.mncdn.com/blutv_trtspor_dvr/live.m3u8",
+      "streamURL": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
       "imageURL": "trtspor.png",
       "epgID": "TRTSpor.tr",
       "epgNumber": "2"
     },
     {
       "name": "TRT Spor Yıldız",
-      "streamURL": "https://mn-nl.mncdn.com/blutv_trtsporyildiz_dvr/live.m3u8",
+      "streamURL": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8",
       "imageURL": "trtspor2.png",
       "epgID": "TRTSporYildiz.tr",
       "epgNumber": "1"
@@ -163,14 +163,14 @@
     },
     {
       "name": "Show Türk",
-      "streamURL": "https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8",
+      "streamURL": "https://techouslivesqueryalt.herokuapp.com/iptv-query?streaming-ip=https://www.showturk.com.tr/canli-yayin/showturk",
       "imageURL": "showturk.png",
       "epgID": "",
       "epgNumber": "0"
     },
     {
       "name": "Show Max",
-      "streamURL": "https://techouslivesqueryalt.herokuapp.com/iptv-query?streaming-ip=http://www.showmax.com.tr/canliyayin",
+      "streamURL": "https://europe-west3-techous-plus-live-354616.cloudfunctions.net/techouslivetoken?channel=show-max",
       "imageURL": "showmax.png",
       "epgID": "ShowMax.tr",
       "epgNumber": "3"
@@ -401,7 +401,7 @@
     },
     {
       "name": "Bengü Türk",
-      "streamURL": "https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8",
+      "streamURL": "oz8YEMIE31M",
       "imageURL": "benguturk.png",
       "epgID": "BenguturkTV.tr",
       "epgNumber": "5"
@@ -583,7 +583,7 @@
     },
     {
       "name": "Semerkand TV",
-      "streamURL": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8",
+      "streamURL": "https://europe-west3-techous-plus-live-354616.cloudfunctions.net/techouslivetoken?channel=semerkand-tv",
       "imageURL": "semerkandtv.png",
       "epgID": "SemerkandTV.tr",
       "epgNumber": "5"
@@ -681,14 +681,14 @@
     },
     {
       "name": "Power TV",
-      "streamURL": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8",
+      "streamURL": "https://mn-nl.mncdn.com/blutv_power2/live.m3u8",
       "imageURL": "powertv.png",
       "epgID": "PowerTV.tr",
       "epgNumber": "5"
     },
     {
       "name": "Power Türk TV",
-      "streamURL": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8",
+      "streamURL": "https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8",
       "imageURL": "powerturk.png",
       "epgID": "PowerTurkTV.tr",
       "epgNumber": "5"
