@@ -163,14 +163,14 @@
     },
     {
       "name": "Show Türk",
-      "streamURL": "https://techouslivesqueryalt.herokuapp.com/iptv-query?streaming-ip=https://www.showturk.com.tr/canli-yayin/showturk",
+      "streamURL": "https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8",
       "imageURL": "showturk.png",
       "epgID": "",
       "epgNumber": "0"
     },
     {
       "name": "Show Max",
-      "streamURL": "https://europe-west3-techous-plus-live-354616.cloudfunctions.net/techouslivetoken?channel=show-max",
+      "streamURL": "https://techouslivesqueryalt.herokuapp.com/iptv-query?streaming-ip=http://www.showmax.com.tr/canliyayin",
       "imageURL": "showmax.png",
       "epgID": "ShowMax.tr",
       "epgNumber": "3"
@@ -401,7 +401,7 @@
     },
     {
       "name": "Bengü Türk",
-      "streamURL": "oz8YEMIE31M",
+      "streamURL": "https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8",
       "imageURL": "benguturk.png",
       "epgID": "BenguturkTV.tr",
       "epgNumber": "5"
