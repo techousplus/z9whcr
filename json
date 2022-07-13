@@ -583,7 +583,7 @@
     },
     {
       "name": "Semerkand TV",
-      "streamURL": "https://europe-west3-techous-plus-live-354616.cloudfunctions.net/techouslivetoken?channel=semerkand-tv",
+      "streamURL": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8",
       "imageURL": "semerkandtv.png",
       "epgID": "SemerkandTV.tr",
       "epgNumber": "5"
