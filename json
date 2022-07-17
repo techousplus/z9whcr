@@ -667,14 +667,14 @@
     },
     {
       "name": "Kral TV",
-      "streamURL": "https://dygvideo.dygdigital.com/live/hls/kraltv-snappy",
+      "streamURL": "https://dogus-live.daioncdn.net/kraltv/playlist.m3u8",
       "imageURL": "kraltv.png",
       "epgID": "",
       "epgNumber": "0"
     },
     {
       "name": "Kral Pop TV",
-      "streamURL": "https://dygvideo.dygdigital.com/live/hls/kralpop-snappy",
+      "streamURL": "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8",
       "imageURL": "kralpoptvlogo.png",
       "epgID": "",
       "epgNumber": "0"
