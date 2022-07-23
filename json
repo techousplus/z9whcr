@@ -156,21 +156,21 @@
     },
     {
       "name": "Show TV",
-      "streamURL": "https://techouslivesqueryalt.herokuapp.com/iptv-query?streaming-ip=https://www.showtv.com.tr/canli-yayin",
+      "streamURL": "https://techouslivesquery.herokuapp.com/iptv-query?streaming-ip=https://www.showtv.com.tr/canli-yayin",
       "imageURL": "showtv.png",
       "epgID": "ShowTV.tr",
       "epgNumber": "5"
     },
     {
       "name": "Show Türk",
-      "streamURL": "https://techouslivesqueryalt.herokuapp.com/iptv-query?streaming-ip=https://www.showturk.com.tr/canli-yayin/showturk",
+      "streamURL": "https://techouslivesquery.herokuapp.com/iptv-query?streaming-ip=https://www.showturk.com.tr/canli-yayin/showturk",
       "imageURL": "showturk.png",
       "epgID": "",
       "epgNumber": "0"
     },
     {
       "name": "Show Max",
-      "streamURL": "https://techouslivesqueryalt.herokuapp.com/iptv-query?streaming-ip=http://www.showmax.com.tr/canliyayin",
+      "streamURL": "https://techouslivesquery.herokuapp.com/iptv-query?streaming-ip=http://www.showmax.com.tr/canliyayin",
       "imageURL": "showmax.png",
       "epgID": "ShowMax.tr",
       "epgNumber": "3"
@@ -205,7 +205,7 @@
     },
     {
       "name": "TV8",
-      "streamURL": "https://tv8m3u8alt.herokuapp.com",
+      "streamURL": "https://tv8m3u8.herokuapp.com",
       "imageURL": "tv8logo.png",
       "epgID": "TV8.tr",
       "epgNumber": "5"
@@ -254,7 +254,7 @@
     },
     {
       "name": "Habertürk",
-      "streamURL": "https://techouslivesqueryalt.herokuapp.com/iptv-query?streaming-ip=https://www.haberturk.com/canliyayin",
+      "streamURL": "https://techouslivesquery.herokuapp.com/iptv-query?streaming-ip=https://www.haberturk.com/canliyayin",
       "imageURL": "haberturk-logo.png",
       "epgID": "Haberturk.tr",
       "epgNumber": "1"
@@ -282,7 +282,7 @@
     },
     {
       "name": "Artı TV",
-      "streamURL": "https://techouslivesqueryalt.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCxVicskgBc8OD66iLKc7Uaw",
+      "streamURL": "https://techouslivesquery.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCxVicskgBc8OD66iLKc7Uaw",
       "imageURL": "artıtv.png",
       "epgID": "",
       "epgNumber": "0"
